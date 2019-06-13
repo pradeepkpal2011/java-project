@@ -10,5 +10,7 @@ public class App
     {
         Evenodd ob= new Evenodd();
 System.out.println(ob.checkeven(Integer.parseInt(args[0])));
+System.out.println("Ok");
+System.out.println("Ok");
     }
 }
